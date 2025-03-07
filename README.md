@@ -153,3 +153,6 @@ Ori_x,Ori_y,Ori_z,Ori_w,Pos_x,Pos_y,Pos_z,Obj_Pos_x,Obj_Pos_y,Obj_Pos_z,Label
 
 ---
 
+License
+
+This project is licensed under the MIT License.
